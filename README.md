@@ -6,5 +6,5 @@ In this repository, we deposit the following files that we used in the paper "An
 
 2. The R code for analyzing the real data set based on our proposed method.
 
-
+3. The R code used for simulation studies.
 
